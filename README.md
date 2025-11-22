@@ -1,1 +1,1 @@
-estilização do icone de login com tailwind, com animation-spin
+estilização do icone de login com tailwind, com animate-spin
